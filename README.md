@@ -1,2 +1,18 @@
-# Student_login_system
-it is a Login system where students login to view there progress
+# Student Login System
+
+A PHP & MySQL based student dashboard system.
+
+## Features
+
+- Student Signup
+- Student Login
+- Dashboard
+- Session Authentication
+- Logout System
+
+## Technologies Used
+
+- HTML
+- CSS
+- PHP
+- MySQL
